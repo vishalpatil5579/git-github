@@ -13,7 +13,7 @@
 - Master1 (feature branch)
 - Master007 (feature branch)
 ## 🔀 Pull Requests & Merging
-- Pull requests were created to merge Master into dev
+- Pull requests were created to merge dev into Main
 - Final merge to main for release
 
 ## 🏷️ Git Tags (Releases)
